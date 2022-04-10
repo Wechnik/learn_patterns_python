@@ -1,2 +1,4 @@
-# learn_patterns_python
-Study and implement pattern 
+# Изучение паттернов по материалам refactoringguru с собственной реализацией
+
+Уже реализованы следующие паттерны:
+- ни че го
