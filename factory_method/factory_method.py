@@ -1,6 +1,6 @@
 from typing import Optional
 
-from factory.abstract import AbstractCreaterShop, AbstractShop
+from factory_method.abstract import AbstractCreaterShop, AbstractShop
 
 
 class AutoShop(AbstractShop):

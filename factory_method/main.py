@@ -1,5 +1,5 @@
-from factory.abstract import AbstractShop
-from factory.factory_method import CreatorShop
+from factory_method.abstract import AbstractShop
+from factory_method.factory_method import CreatorShop
 
 
 def work_processes(shop: AbstractShop):
